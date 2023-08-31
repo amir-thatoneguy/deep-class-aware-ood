@@ -13,6 +13,7 @@ We then applied Bayesian nonparametric approaches such as the Bayesian GMM with 
 ## Results
 The uncertainty estimation method worked perfectly and consistently across all of the uncertainty estimation algorithms we used, almost always finding the best possible threshold one could manually set. The bottleneck for the final result seemed to be the Bayesian nonparametric approach to clustering without a prior on the number of classes. The BGMM model in our project didn't work very well.
 
+## Other Information
 The feature extractor in our project is a classic VGG-16 trained on ImageNet-1K. All of the code is in Pytorch. The collaborators on this project were Alireza Gargoori Motlagh and Mohammad Mahdi Asmae.
 
 
