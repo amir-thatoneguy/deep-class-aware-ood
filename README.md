@@ -8,6 +8,8 @@ This repository holds the code for the final project of the graduate course "Sta
 2. Finding the threshold that best separates the separated class from the available seen classes (F1 score is used here to find the threshold with the highest in and out-of distribution detection accuracy).
 3. The process is repeated for all classes to find the threshold with the best average F1 accuracy across all classes.
 
+![Overview of our approach](approach.png)
+
 We then applied Bayesian nonparametric approaches such as the Bayesian GMM with a Dirichlet prior to clustering the unseen data. 
 
 ## Results
