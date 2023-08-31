@@ -1,4 +1,4 @@
-# cross-class-validation
+# cross-class-validation-for-ood
 a cross-validation approach to finding out-of-distribution uncertainty thresholds for open-set recognition.
 
 ## Introduction
