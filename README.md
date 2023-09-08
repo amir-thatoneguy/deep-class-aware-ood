@@ -1,7 +1,7 @@
 # deep-class-aware-ood
 a cross-validation approach to finding out-of-distribution uncertainty thresholds for open-set recognition.
 
-## Updata
+## Update
 Me and [Alireza Gargoori Motlagh](https://github.com/alireza7agm) hope to continue this work as a research project! Currently, our main ideas are using self-supervised embeddings for finding class centroids, and using the entropy of the distribution of distances to centroids as a measure of the uncertainty for prediction. See the SSL+OOD Jupyter notebook for an experiment using Dino on CIFAR-10 -> SVHN (Dino has recently been interpreted as a von Mises-Fisher mixture model. See [this](https://openreview.net/forum?id=cMJo1FTwBTQ) paper). 
 
 ## Introduction
